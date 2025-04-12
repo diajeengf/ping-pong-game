@@ -1,4 +1,4 @@
-from pygame import *
+
 
 class GameSprite(sprite.Sprite):
     #class constructor
