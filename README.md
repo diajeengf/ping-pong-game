@@ -6,14 +6,14 @@ The primary objective of this project is to develop a simple Ping-Pong game prot
 ---
 
 ## Classes
-- ***GameSprite***: A basic class to load images, set size and position, and draw the object.
-- ***Player***: Inherits from GameSprite, and adds movement with keyboard keys (W/S for left racket, UP/DOWN for right racket).
+- ***GameSprite***: _A basic class to load images, set size and position, and draw the object._
+- ***Player***: _Inherits from GameSprite, and adds movement with keyboard keys (W/S for left racket, UP/DOWN for right racket)._
 
 ---
 
 ## Main Game Objects
 - ***racket1*** and ***racket2***: _The two rackets for each player._
-- ***ball***: The ball that moves and decides who loses the game.
+- ***ball***: _The ball that moves and decides who loses the game._
 
 ---
 
