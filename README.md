@@ -12,8 +12,8 @@ The primary objective of this project is to develop a simple Ping-Pong game prot
 ---
 
 ## Main Game Objects
-- *racket1* and *racket2*: _The two rackets for each player._
-- *ball*: The ball that moves and decides who loses the game.
+- ***racket1*** and *racket2*: _The two rackets for each player._
+- ***ball***: The ball that moves and decides who loses the game.
 
 ---
 
@@ -32,7 +32,7 @@ The primary objective of this project is to develop a simple Ping-Pong game prot
 ---
 
 ## Project Prospects
-This game has potential for further development, including:
+***This game has potential for further development, including:***
 1. Adding a scoring system to track each player’s points.
 2. Increasing the difficulty over time by speeding up the ball.
 3. Implementing sound effects and background music.
