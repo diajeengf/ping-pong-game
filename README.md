@@ -19,13 +19,13 @@ The primary objective of this project is to develop a simple Ping-Pong game prot
 
 ## Game Logic
 - The ball moves by itself.
-- It bounces when it hits the paddles or the top/bottom walls.
+- It bounces when it hits the rackets or the top/bottom walls.
 - If the ball goes past the left edge, Player 1 loses.  
   If it goes past the right edge, Player 2 loses.
 
 ---
 
-## Special Features of the Project
+## Distinctive Features of the Project
 - Two-player control using keyboard keys.  
 - Easy win/lose condition.
 
