@@ -12,7 +12,7 @@ The primary objective of this project is to develop a simple Ping-Pong game prot
 ---
 
 ## Main Game Objects
-- ***racket1*** and *racket2*: _The two rackets for each player._
+- ***racket1*** and ***racket2***: _The two rackets for each player._
 - ***ball***: The ball that moves and decides who loses the game.
 
 ---
